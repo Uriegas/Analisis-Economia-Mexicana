@@ -8,4 +8,4 @@ No me hago responsable de cualquier uso indebido de este material, usese bajo re
 Este material es publicado con fines educativos.
 
 ## Uso
-La carpeta [Contents](/Contents) contiene todas las actividades.
+La carpeta [Content](/Content) contiene todas las actividades.
